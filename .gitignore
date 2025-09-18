@@ -1,0 +1,83 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Python environment variables
+.env
+*.env
+
+# Logs and local debug
+*.log
+*.pid
+*.sqlite3
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Movie/audio/temp files
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.avi
+*.mov
+*.flac
+*.webm
+*.tmp
+*.part
+
+# Uploaded files
+uploads/
+downloads/
+media/
+temp/
+cache/
+output/
+
+# Pytest and coverage
+.cache/
+.tox/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.idea/
+*.iml
+
+# Database & API key files
+*.db
+*.key
+*.pem
+*.pkl
+*.json
+
+# Pip dependency resolver cache
+pip-log.txt
+pip-delete-this-directory.txt
