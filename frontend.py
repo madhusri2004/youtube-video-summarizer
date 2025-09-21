@@ -580,6 +580,6 @@ elif page == "Settings":
 
 # Footer
 st.markdown("---")
-st.markdown("Made by Ahmad using Streamlit and FastAPI | © 2024 Video Summarizer Agent")
+st.markdown("Made by Madhu using Streamlit and FastAPI | © 2025 Youtube Video Summarizer Agent")
 
 # Run the app with: streamlit run frontend.py
